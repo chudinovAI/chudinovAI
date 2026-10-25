@@ -1,6 +1,6 @@
-- C++ & Python & CUDA
-- PyTorch \ TensorFlow
-- Deep Learning \ RL \ NLP
+- C++ \ Python \ CUDA \ Metal
+- PyTorch \ TensorFlow \ autodiff frameworks
+- DL \ NLP \ RL
 - Parallel Computing \ Performance Optimization
 
 ---
