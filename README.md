@@ -5,4 +5,4 @@
 
 ---
 
-https://github.com/ndif-team/nnsight/pull/773
+[https://github.com/ndif-team/nnsight/pull/773](https://github.com/ndif-team/nnsight/releases/tag/v0.8.1)
